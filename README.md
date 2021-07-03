@@ -22,7 +22,7 @@ A fullstack engineer who likes bridging the gap between development and design.
     >&nbsp;<small><strong>(follow)</strong> me on medium</small>
   </p>
   <p>
-    <a href="LinkedIn Profile: https://www.linkedin.com/in/zainzafar1/"
+    <a href="https://www.linkedin.com/in/zainzafar1/"
       ><img
         alt="LinkedIn @zainzafar1"
         align="center"
@@ -30,7 +30,7 @@ A fullstack engineer who likes bridging the gap between development and design.
     >&nbsp;<small><strong>(connect)</strong> with me on LinkedIn</small>
   </p>
   <p>
-    <a href="Twitter Profile: https://twitter.com/mzainzafar90"
+    <a href="https://twitter.com/mzainzafar90"
       ><img
         alt="Twitter @mzainzafar90"
         align="center"
