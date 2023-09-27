@@ -51,4 +51,18 @@ A fullstack engineer who likes bridging the gap between development and design.
       <strong>(read)</strong> about the package here
     </small>
   </p>
+
+  <small><strong>❯❯ Side Projects That I am working on ↓</strong></small>
+
+  <p>
+    <a href="https://www.meelio.io">
+        <img
+            align="center"
+            alt="Meelio ~zainzafar90"
+            src="https://img.shields.io/badge/Meelio%20%E2%86%92-gray.svg?colorA=F25D42&colorB=EF3560&style=for-the-badge" />
+    </a>&nbsp;
+    <small>
+      <strong>(explore)</strong> the application here
+    </small>
+  </p>
 </div>
